@@ -100,7 +100,7 @@
     line-height: 110%;
 }
 
-#grid-1 header h3 {
+#grid-1 header h1 {
     color: var(--color-white);
     align-self: stretch;
     font-family: "BarlowSemiCondensed-SemiBold", sans-serif;
